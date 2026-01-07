@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "azeha",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "89ce5d8c-d95d-4ab1-9de8-9d874a65b05e",
+			"database_name": "elp"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
